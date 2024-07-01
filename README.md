@@ -10,6 +10,7 @@ It provides various options to customize the passwords, ensuring they meet speci
 
 ## App Preview
 ![App Screenshot](screanshot.png)
+![App Screenshot](screanshot2.png)
 
 ## Contribution
 We welcome contributions! Please fork the repository and create a pull request.
